@@ -11,3 +11,13 @@ class Pedido{
     }
     
 }
+
+class Tienda{
+    constructor(identificador){
+        this.identificador = identificador
+    }
+}
+
+class Cliente{
+    constructor()
+}
